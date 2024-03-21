@@ -28,6 +28,6 @@ Install the dependencies from the requirements.txt file.
 ## Usage
 
 The script takes five inputs: path to your DAPI image, path to your cell segmentation mask, number of iterations, sample size, and value to exclude from the mask.
-  '''sh
+  ```sh
   python SegMetric.py <PATH TO IMAGE> <PATH TO MASK> <# ITERATIONS> <# SAMPLE SIZE> <# VALUE TO EXCLUDE>
-  '''
+  ```
